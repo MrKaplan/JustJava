@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string-array name="beverageNameArray">
+        <item>Espresso</item>
+        <item>Espresso Intenso</item>
+        <item>Ristretto</item>
+        <item>Ristretto Ardenza</item>
+        <item>Barista</item>
+        <item>Espresso Buondi</item>
+        <item>Espresso Sical</item>
+        <item>Lungo</item>
+        <item>Lungo Intenso</item>
+        <item>Grande</item>
+        <item>Grande Intenso</item>
+        <item>Americano</item>
+    </string-array>
+
+    <string-array name="beverageImageArray">
+        <item>ndg_espresso</item>
+        <item>ndg_intenso</item>
+        <item>ndg_ristretto</item>
+        <item>ndg_ardenza</item>
+        <item>ndg_barista</item>
+        <item>ndg_buondi</item>
+        <item>ndg_sical</item>
+        <item>ndg_lungo</item>
+        <item>ndg_lungointenso</item>
+        <item>ndg_grande</item>
+        <item>ndg_grandeintenso</item>
+        <item>ndg_americano</item>
+
+    </string-array>
+
+    <string-array name="beverageDescriptionArray">
+        <item>Espresso is our most classic coffee pod. The kind of coffee that’s always pleasing to the palate, this delicious espresso pod drink is ideal for any time of the day. Whether you serve it up as a brilliant breakfast accompaniment, or after dinner with friends, our Espresso pod coffee is a timeless drink that has a soft, nutty lingering bitterness. An invigorating lighter roast, with sweet, fruity notes and a velvety crema finish, Espresso offers the sophistication of barista style coffee, whilst keeping things simple. The maximum 15-bar pump pressure in each of our stylish coffee machines means that it’s easy to make coffee shop quality drinks at home. With all of the style of a barista made drink, and the delicious taste of our zingy coffee blend, this clever espresso capsule drink is made to be enjoyed.</item>
+        <item>One of our medium roast coffee pod drinks, Intenso has a deliciously nutty aroma that adds something extra special to your espresso cup. With a warm, spicy intensity and hints of summery red fruits, our Espresso Intenso pod coffee has a gentle complexity that tastes great at any time of the day. Thanks to the maximum 15-bar pump pressure in our stylish coffee machines, these pods not only make a tasty espresso, but also top your drink with a velvety layer of crema. Honey-coloured and delicious, the silky crema helps your Intenso espresso pod coffee taste great from the very first sip. With wonderful aromas of almonds and cherries, Espresso Intenso is brilliant for savouring after dinner with friends or simply enjoyed as a way to unwind.</item>
+        <item>A little shot of coffee heaven, Ristretto is definitely not your average espresso. Bold and intense, this short espresso pod coffee has a delicious lingering taste, with a roasted, woody aroma. A little smaller than an espresso, Ristretto is also known as ‘corto’, the Italian way of saying ‘short’. Compact, yet full-bodied with hints of black treacle, Ristretto is made by passing less water through the coffee, resulting in an intense shot of espresso that’s delicious morning, noon and night.One of our stronger coffee capsule varieties, Ristretto is a brilliant choice for those who love to savour an espresso, or coffee lovers who want to try something new and exciting.</item>
+        <item>Dark, intense and with wonderful aromas of hazelnut and liquorice, Ristretto Ardenza takes the classic espresso to another level. A little shorter, Ristretto is made by passing less water through the coffee. What this means is that you get a short, robust espresso that has a smoky aroma with a deliciously peppery aftertaste. Our Ristretto Ardenza pod coffee is our most intense coffee capsule drink yet, so if you love the full-bodied taste of a bold espresso, this one is definitely worth a try. Also known as ‘corto’, Italian for ‘short’, Ristretto Ardenza is definitely proof that good things come in small packages. As well as a wonderfully woody character with a bold, hazlenutty taste, these punchy espressos are also topped with a silky layer of crema thanks to the maximum 15-bar pump pressure in our stylish machines. The colour of caramel, the delicious crema is frothy, rich and helps give your espresso pod coffee a high quality taste, just as you would expect from a coffee shop.</item>
+        <item>One of our most intense coffee pod drinks, our Espresso Barista variety definitely one for those who love a full-bodied coffee! Short, dark and aromatic, Espresso Barista is a deliciously strong espresso that’s bursting with a bold, rich taste. Well-balanced, yet robust, this espresso capsule drink is wonderful at any time of the day. Whether you love a morning espresso or enjoy savouring a coffee after dinner, Espresso Barista is made to be enjoyed, whatever your style.</item>
+        <item>The perfect combination between the slight acidity of the center and South American arabicas, with the body of the best robustas.</item>
+        <item>A coffee to the taste of Portugal with the best origins and a taste of tradition. An excellent selection of arabicas gives this espresso a slightly fruity aroma, moderate acidity and a note of citrus fruit balanced with the average body that is conferred by the best African robustas.</item>
+        <item>The classic Lungo is, in Italian, a ‘long coffee’. Like the iconic espresso, water is passed through our rich roasted and ground coffee blend, but instead of making a shot, enough water is used to fill a normal coffee cup. What you create is a smooth, enticingly dark coffee that’s just right for everyday easy drinking.</item>
+        <item>When it’s time for a stronger coffee let the Lungo Intenso take you away. This ‘long coffee’, an espresso made with a little more hot water, is created with an intense coffee pod that has more bite than the regular Lungo blend - but all of the classic taste. With a classic layer of crema swirled over its surface, the Lungo Intenso marries a delicate aroma with a full-bodied taste experience.</item>
+        <item>With a dash of extra intensity, the Grande is the next step up in depth from the classic Americano. Smooth and undeniably satisfying, our Grande coffee pod drinks are made with medium-roast 100% Arabica coffee beans, just the right thing for that first coffee of the morning - and everyday moments alike. With its aromatic layer of crema, our Grande is a long drink that’s beautiful in its simplicity. E</item>
+        <item>The Grande Intenso is just what it sound like – our classic Grande with a more intense bite. Created with ground Arabica coffee, delightfully bold and full-bodied, this well-balanced but never overpowering NESCAFÉ® Dolce Gusto® creation is made to deliver.</item>
+        <item>Our Americano is a straight-up roast and ground coffee, but don’t let that fool you. Its stylishly smooth blend can be enjoyed at any time of the day. Made with selected roast and ground beans, our Americano can be served with or without milk for that freshly made taste, however you like it. The light roast of our simple but confident blend of 100% Arabica beans makes these Americano pod coffees a little less intense than a Lungo or Grande, but with all the coffee shop flavour you love.</item>
+    </string-array>
+
+    <string-array name="beverageShortDescriptionArray">
+        <item>Intensely aromatic, full-bodied and topped with a velvety crema finish.</item>
+        <item>High on aroma and flavour with a velvety crema layer.</item>
+        <item>Shorter than a standard espresso, yet bold and full-flavoured.</item>
+        <item>The most intense version of Ristretto, the short bold espresso.</item>
+        <item>Dark and aromatic, this Barista espresso packs a real punch!</item>
+        <item>A long and pleasant flavor with notes of hazelnut and black chocolate.</item>
+        <item>Coffee to the taste of Portugal with the best origins and taste of tradition.</item>
+        <item>A 'stretched' espresso; a long cup of smooth intense coffee. </item>
+        <item>The more intense version of the 'stretched' espresso. </item>
+        <item>A smooth, velvety, full-bodied but balanced coffee.</item>
+        <item>The most intense and full bodied of the Grande range. </item>
+        <item>A fruity and aromatic coffee with medium intensity.</item>
+    </string-array>
+
+    <string-array name="beverageIntensityArray">
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>11</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>9</item>
+        <item>5</item>
+        <item>9</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="beverageColorArray">
+        <item>8A1538</item>
+        <item>000000</item>
+        <item>006E5E</item>
+        <item>282F89</item>
+        <item>969696</item>
+        <item>B22825</item>
+        <item>F7CD5B</item>
+        <item>E93C14</item>
+        <item>8B3818</item>
+        <item>FFCD00</item>
+        <item>C84615</item>
+        <item>AF183B</item>
+
+    </string-array>
+</resources>
